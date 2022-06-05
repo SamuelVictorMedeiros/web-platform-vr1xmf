@@ -1,0 +1,28 @@
+body {
+  background: rgb(11,0,191);
+background: linear-gradient(90deg, rgba(11,0,191,0) 0%, rgba(20,20,134,1) 0%, rgba(255,0,0,1) 100%);
+}
+
+p { 
+  font-size: 20px;
+  color:black;
+  text-align:center;
+  margin-top: 25px;
+}
+
+h1 { 
+   font-size: 34px;
+   font-weight: bold;
+   text-align: center;
+   color: black;
+   margin-top: 145px;
+}
+
+input {
+  width: 342px;
+  height: 74px;
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 17px;
+  padding-left: 26px;
+}
