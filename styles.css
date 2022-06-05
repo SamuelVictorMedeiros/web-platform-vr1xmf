@@ -42,8 +42,12 @@ button {
   color: white;
   font-weight: bold;
   font-size: 16px;
+  cusor: pointer;
 }
 
+button:active { 
+   opacity: 0.6;
+}
 
 a {   
   margin-top: 90px;
@@ -53,5 +57,5 @@ a {
   text-align: center;
   font-size: 14px;
   color: black;
-
+  cursor: pointer;
 }
